@@ -124,54 +124,25 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(60).pdf" style="text-decoration:none;">The transmission of Chinese medicine </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(61).pdf" style="text-decoration:none;">The Language of Fashion </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(61).pdf" style="text-decoration:none;">Oxford Dictionary of Medical Quotations </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(11).pdf" style="text-decoration:none;">Fashion Design Basics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(62).pdf" style="text-decoration:none;">MCQs and EMQs in Human Physiology</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(37).rar" style="text-decoration:none;">Patternmaking for Fashion Design </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(63).pdf" style="text-decoration:none;">Community Medicine Important MCQs </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(41).pdf" style="text-decoration:none;">Sustainable Fashion: A Handbook for Educators</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(64).pdf" style="text-decoration:none;">The Complete Home Guide to Herbs, Natural Healing, and Nutrition</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(47).pdf" style="text-decoration:none;">Fashion Marketing</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(65).pdf" style="text-decoration:none;">Multiple Choice Questions in Medical Physiology</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(52).pdf" style="text-decoration:none;">So, You Want to Work in Fashion?: How to Break into the World of Fashion and Design </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(66).pdf" style="text-decoration:none;">Being Mortal: Illness, Medicine and What Matters</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(62).pdf" style="text-decoration:none;">Fashionable Technology: The Intersection of Design, Fashion, Science, and Technology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(67).pdf" style="text-decoration:none;">MCQs in Tropical Medicine</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(63).pdf" style="text-decoration:none;">1000+ Fashion Poses: A Complete Reference Book for Photographers</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(68).pdf" style="text-decoration:none;">MCQs in Pathology</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(64).pdf" style="text-decoration:none;">The International Fashion Guide: Top Fashion Brands &middot; Showrooms Directory </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(65).pdf" style="text-decoration:none;">In Fashion: From Runway to Retail, Everything You Need to Know to Break Into the Fashion Industry </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(66).pdf" style="text-decoration:none;">In an Influential Fashion: An Encyclopedia of Nineteenth- and Twentieth-Century Fashion Designers and Retailers Who Transformed Dress</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(67).pdf" style="text-decoration:none;">Artificial Intelligence on Fashion and Textiles</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(68).pdf" style="text-decoration:none;">Artificial Intelligence for Fashion: How AI is Revolutionizing the Fashion Industry </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(69).pdf" style="text-decoration:none;">MCQs and EMQs in Surgery </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(69).pdf" style="text-decoration:none;">Fashion as Photograph</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(70).pdf" style="text-decoration:none;">The face of fashion: Cultural studies in fashion</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(71).pdf" style="text-decoration:none;">The World's Best-Kept Beauty Secrets: What Really Works in Beauty, Diet, and Fashion </a></b></li>
-
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(72).pdf" style="text-decoration:none;">The Fashionable Life: Fashion Imagery and the Construction of Masculinity in America, 1960-2000</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(73).rar" style="text-decoration:none;">Fashion Artist: Drawing Techniques to Portfolio Presentation</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(49).pdf" style="text-decoration:none;">A Cultural History of Fashion in the 20th and 21st Centuries</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(74).pdf" style="text-decoration:none;">House Of Fashion</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(75).rar" style="text-decoration:none;">The House Of Worth: Fashion Sketches, 1916 -1918 </a></b></li>
-
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(76).pdf" style="text-decoration:none;">Contemporary Fashion</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(77).pdf" style="text-decoration:none;">Fast Fashion Design</a></b></li>
 
 
 
