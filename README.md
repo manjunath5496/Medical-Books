@@ -163,6 +163,23 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(76).pdf" style="text-decoration:none;">Approach to Internal Medicine: Resource Book for Clinical Practice </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(77).pdf" style="text-decoration:none;">Decision Making in Medicine: An Algorithmic Approach</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(78).pdf" style="text-decoration:none;">Infectious Diseases in Critical Care Medicine</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(79).pdf" style="text-decoration:none;">Principles and Practice of Clinical Trial Medicine</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(80).pdf" style="text-decoration:none;">Burket's Oral Medicine</a></b></li>
+
+
+
+
+
+
+
+
+
+
 
 
 </ul>
