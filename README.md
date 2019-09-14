@@ -45,49 +45,52 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(22).pdf" style="text-decoration:none;">Introduction to Veterinary and Comparative Forensic Medicine</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(23).pdf" style="text-decoration:none;">The colonel : a story of fashionable life </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(23).pdf" style="text-decoration:none;">Medical-Surgical Nursing: Assessment and Management of Clinical Problems </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(24).pdf" style="text-decoration:none;">The Quicksands Of Fashion: A Novel </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(24).pdf" style="text-decoration:none;">Emergency Medicine: PreTest Self-Assessment and Review </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(25).pdf" style="text-decoration:none;">Fashion and Passion </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(25).pdf" style="text-decoration:none;">Encyclopedia of Human Body Systems </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(26).pdf" style="text-decoration:none;">Fashion and Textiles 2015</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(26).pdf" style="text-decoration:none;">Handbook of Medicinal Herbs</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(27).pdf" style="text-decoration:none;">Pilgrims of Fashion: A Novel</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(27).pdf" style="text-decoration:none;">Textbook of Forensic Medicine and Toxicology</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(28).pdf" style="text-decoration:none;">Fashion and Its Votaries</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(28).pdf" style="text-decoration:none;">Principles and Practice of Pharmaceutical Medicine</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(29).pdf" style="text-decoration:none;">Good Remedies — Out of Fashion</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(29).pdf" style="text-decoration:none;">Clinical Psychology</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(30).pdf" style="text-decoration:none;">The Pursuits of Fashion: A Satirical Poem</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(30).pdf" style="text-decoration:none;">Lippincott's Review for Medical-Surgical Nursing Certification</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(31).pdf" style="text-decoration:none;">Exploring Fashion Design  </a></b></li>
-
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(32).pdf" style="text-decoration:none;"> Fashion Sketchbook  </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(33).pdf" style="text-decoration:none;">Tales of Fashion and Reality </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(34).pdf" style="text-decoration:none;">Fashion and Textiles 2017</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(35).pdf" style="text-decoration:none;">Textile Design: A Suggested Program Guide, Fashion Industry Series No. 3</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(36).pdf" style="text-decoration:none;">Leah: a woman of fashion</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(31).pdf" style="text-decoration:none;">Pediatric Nutrition in Practice  </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(38).pdf" style="text-decoration:none;">The Fashion of Frill: The Art of Impression Management in the Atlanta Lolita and Japanese Street Fashion Community  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(32).pdf" style="text-decoration:none;"> Treatment of Pediatric Neurologic Disorders</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(39).pdf" style="text-decoration:none;">Fashion Illustration Templates  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(33).pdf" style="text-decoration:none;">Atlas of musculoskeletal ultrasound anatomy</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(40).pdf" style="text-decoration:none;">Fashion Catalog 2009 </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(34).pdf" style="text-decoration:none;">Antimicrobial Therapy in Veterinary Medicine</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(42).pdf" style="text-decoration:none;">Fashion, a Poem Delivered Before the Seventeenth Convention of the Delta Kappa Epsilon Fraternity</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(35).pdf" style="text-decoration:none;">The Practice of Chinese Medicine</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(43).pdf" style="text-decoration:none;">The Art of Pluck: Being a Treatise After the Fashion of Aristotle</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(36).pdf" style="text-decoration:none;">Timeless Secrets of Health and Rejuvenation</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(44).pdf" style="text-decoration:none;">Fashion and Other Poems </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(37).pdf" style="text-decoration:none;">Biology Atlas of Skeletal Muscles</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(45).pdf" style="text-decoration:none;">Design Law — Are Special Provisions Needed To Protect Unique Industries?</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(38).pdf" style="text-decoration:none;">  RN Adult Medical Surgical Nursing Review Module Edition 9.0</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(39).pdf" style="text-decoration:none;">Medicine and surgery: A concise textbook  </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(40).pdf" style="text-decoration:none;">Handbook for Brunner and Suddarth's Textbook of Medical Surgical Nursing </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(41).pdf" style="text-decoration:none;">Medical Laboratory Science Review </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(42).pdf" style="text-decoration:none;">Herbal Medicine: Biomolecular and Clinical Aspects</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(43).pdf" style="text-decoration:none;">Clinical Forensic Medicine</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(44).pdf" style="text-decoration:none;">Peptide Chemistry and Drug Design </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(45).pdf" style="text-decoration:none;">Handbook of Psychology</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(46).pdf" style="text-decoration:none;">Fashions For Early Summer  </a></b></li>
 
