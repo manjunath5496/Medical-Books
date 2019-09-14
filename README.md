@@ -92,12 +92,18 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(45).pdf" style="text-decoration:none;">Handbook of Psychology</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(46).pdf" style="text-decoration:none;">Fashions For Early Summer  </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(48).pdf" style="text-decoration:none;">Feminist Africa: The politics of fashion and beauty in Africa  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(46).pdf" style="text-decoration:none;">Handbook Of Pediatric Emergency Medicine  </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(50).pdf" style="text-decoration:none;">Changes in Fashion - Fabrics; Apparel Manufacturing</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(47).pdf" style="text-decoration:none;">Fundamentals of Forensic DNA Typing </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(48).pdf" style="text-decoration:none;">Dictionary of Pharmaceutical Medicine </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(49).pdf" style="text-decoration:none;">100 CASES in Obstetrics and Gynaecology </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(50).pdf" style="text-decoration:none;">Research Methods In Clinical Psychology</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(51).pdf" style="text-decoration:none;">Design Concepts</a></b></li>
 
