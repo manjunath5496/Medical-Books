@@ -150,4 +150,19 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(70).pdf" style="text-decoration:none;">Physics of the Human Body</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(71).pdf" style="text-decoration:none;">Harrison's Manual of Medicine</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(72).pdf" style="text-decoration:none;">Cambridge Pocket Clinician - Internal Medicine</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(73).pdf" style="text-decoration:none;">Pocket Medicine</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(74).pdf" style="text-decoration:none;">The Survival Medicine Handbook </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(75).pdf" style="text-decoration:none;">What Your Doctor Doesn't Know About Nutritional Medicine</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Medical-Books/blob/master/elm(76).pdf" style="text-decoration:none;">Approach to Internal Medicine: Resource Book for Clinical Practice </a></b></li>
+
+
+
+
 </ul>
