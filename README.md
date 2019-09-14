@@ -105,24 +105,24 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(50).pdf" style="text-decoration:none;">Research Methods In Clinical Psychology</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(51).pdf" style="text-decoration:none;">Design Concepts</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(51).pdf" style="text-decoration:none;">The Human Body: Building Blocks And Nutrition</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(53).pdf" style="text-decoration:none;">Fashion Show Program Costume Design, 1934</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(52).pdf" style="text-decoration:none;">Current Essentials of Medicine</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(54).pdf" style="text-decoration:none;">State Skill Standards: Fashion, Textiles And Design </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(53).pdf" style="text-decoration:none;">Essential Evidence-Based Medicine</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(55).pdf" style="text-decoration:none;">The Art Of Fashion Illustration </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(54).pdf" style="text-decoration:none;">Medical-Surgical Nursing Demystified </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(56).pdf" style="text-decoration:none;">The Fashion Design Reference + Specification Book </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(55).pdf" style="text-decoration:none;">Clinical Forensic Medicine - A Physician's Guide</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(56).pdf" style="text-decoration:none;">Core Clinical Cases in Medicine and Surgery </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(57).pdf" style="text-decoration:none;">The Language Of Fashion Design</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(57).pdf" style="text-decoration:none;">Emergency Medicine Clinical Guidelines</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(58).pdf" style="text-decoration:none;">1000 Poses in Fashion </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(59).pdf" style="text-decoration:none;">Absolute Beginner's Guide to Alternative Medicine</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(59).pdf" style="text-decoration:none;">Drawing Fashion and Style: A Step-by-Step Guide to Drawing Clothes, Shoes and Accessories</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(60).pdf" style="text-decoration:none;">The Fashion Business </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(60).pdf" style="text-decoration:none;">The transmission of Chinese medicine </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(61).pdf" style="text-decoration:none;">The Language of Fashion </a></b></li>
 
